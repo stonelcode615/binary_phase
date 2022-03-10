@@ -1,1 +1,5 @@
-fit thermodynamic-model to binary phase diagram and visulization the phase diagram
+fit thermodynamic-model to binary phase diagram 
+and visulization the phase diagram
+
+make
+python2.7 plot ./summary/exp_binary_phase.dat summary/fit_binary_phase.dat
