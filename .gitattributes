@@ -1,0 +1,4 @@
+*.cpp linguist-language=c++
+*.py  linguist-language=python
+*.f90 linguist-language=fortran
+*.sh  linguist-language=bash
