@@ -2,3 +2,4 @@
 *.py  linguist-language=python
 *.f90 linguist-language=fortran
 *.sh  linguist-language=bash
+*.tf  linguist-language=tensorflow
